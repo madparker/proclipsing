@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/processingplugin.core/processing/libraries/opengl
+END
+jogl-src.zip
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/processingplugin.core/processing/libraries/opengl/jogl-src.zip
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/processingplugin.core/processing/libraries/opengl/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/processingplugin.core/processing/libraries/opengl/.classpath
+END

@@ -1,0 +1,17 @@
+Development tools to facilitate using Eclipse to write Processing applications.
+
+The purpose of Proclipsing is to lower the difficulty of using Processing in Eclipse. We are currently in Beta Release.
+
+It allows you to easily create a Processing project in eclipse by simply putting in the path to your Processing app, the path to your Sketch folder (for contributed libs), and then selecting the libraries you want. Proclipsing then creates a project with the desired libs (with native libraries), and skeleton package structure and PApplet.
+
+You can also add/remove libs later with an option in the project preferences menu.
+
+We've also teamed up with Daniel Howe, so you can get his P5 Exporter from the same update site. With P5 Exporter, you can export projects from eclipse similar to the way you do from the Processing IDE.
+
+If you'd like to install Proclipsing, you can find instructions here.
+
+If you need help getting started with writing Processing code in Eclispe, this an intro.
+
+Thank you in advance for taking the time to test for us and we hope you enjoy Proclipsing,
+
+Brian, Daniel, and Matt
